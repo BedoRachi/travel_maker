@@ -33,4 +33,8 @@ public class DefualtController {
    public String myTravelsList() {
       return "member/myTravelsList";
    }
+   @RequestMapping("/myPage")
+   public String myPage() {
+	   return "myPage";
+   }
 }
