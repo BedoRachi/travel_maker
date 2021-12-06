@@ -10,7 +10,7 @@
         	<hr />
         	YOUN <br>
         	PARK <br>
-        	JEONG <br>
+        	JYONG <br>
         	PARK <br>
         	SIM <br>
         	PARK <br>
