@@ -28,8 +28,8 @@
         	</ul>
         	<ul>
         		<li class="text-white-50">Member</li>
-        		<li>My Travels</li>
-        		<li>With Travels</li>
+        		<li><a href="myTravelsList">My Travels</a></li>
+        		<li><a href="togetherList">With Travels</a></li>
         	</ul>
         	<ul>
         		<li class="text-white-50">Guide</li>
