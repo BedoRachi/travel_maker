@@ -25,5 +25,9 @@ public class DefualtController {
    public String mainUrl() {
       return "main/main";
    }
+   @RequestMapping("/myPage")
+   public String myPage() {
+	   return "myPage";
+   }
 
 }
