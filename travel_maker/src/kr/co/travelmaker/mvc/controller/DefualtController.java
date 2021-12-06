@@ -25,5 +25,10 @@ public class DefualtController {
    public String mainUrl() {
       return "main/main";
    }
+   
+   @RequestMapping("/placeDetail") //장소 디테일
+   public String placeDetail() {
+	   return "place/place_detail";
+   }
 
 }
