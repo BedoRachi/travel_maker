@@ -25,9 +25,17 @@ public class DefualtController {
    public String mainUrl() {
       return "main/main";
    }
+   @RequestMapping("/togetherList")
+   public String togetherList() {
+      return "together/togetherList";
+   }
+   @RequestMapping("/myTravelsList")
+   public String myTravelsList() {
+      return "member/myTravelsList";
+      //Test!
+   }
    @RequestMapping("/myPage")
    public String myPage() {
 	   return "myPage";
    }
-
 }
